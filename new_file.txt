@@ -1,4 +1,4 @@
-Hola Clase!
+Adios buenas tardes, Clase!
 
 
-versión de desarrollo en un Branch. 
+versión 2 de desarrollo en un Branch. 
